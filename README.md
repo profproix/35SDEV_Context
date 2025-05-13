@@ -84,6 +84,7 @@ import { RestaurantContext } from "./context/RestaurantContext";
 - In `AddRestaurant`, import and use `useRestaurants` to destructure `updateRestaurants`.
 
 <summary>Click Here to view solution</summary>
+
 ```
 //Solutoin for Importing context to AddRestaurant should look similar.
 
