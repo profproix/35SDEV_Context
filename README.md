@@ -107,4 +107,3 @@ export default RestaurantsContainer;
 
 ```
 </details>
-```
